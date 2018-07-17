@@ -1,0 +1,4 @@
+在当前目录下按住shift+鼠标右键
+选择在此处打开命令行窗口
+输入python flappybird.py
+回车即可执行
